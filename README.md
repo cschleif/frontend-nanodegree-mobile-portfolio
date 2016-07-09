@@ -1,6 +1,6 @@
 ## Website Performance Optimization portfolio project
 
-How to run: Open index.html and/or pizza.html.
+How to run: Open index.html and/or pizza.html
 
 OPTIMMIZATIONS:
 
