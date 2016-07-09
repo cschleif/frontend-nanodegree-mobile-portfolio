@@ -1,4 +1,4 @@
-## Website Performance Optimization portfolio project
+OPTIMIZATIONS:
 
 How to run: Open index.html and/or pizza.html
 
@@ -17,3 +17,5 @@ pizza.html
     and updatePosition() functions
   - compressed images and updated/specified image dims
   - minified everything in views directory
+
+
